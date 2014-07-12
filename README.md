@@ -1,7 +1,7 @@
 FLORA DRIFT
 ===========
 
-Flora Drift is an interactive synth garden, which precedurally generates music &amp visuals.
+Flora Drift is an interactive synth garden, which precedurally generates music and visuals.
 It makes use of the Web Audio API to generate realtime synthesis in-browser.
 
 http://whitevinyldesign.com/floradrift
